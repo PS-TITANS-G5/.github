@@ -75,22 +75,33 @@ O documento deve ser entregue até 4 de dezembro de 2026 contendo:
 
 ## Integrantes
 
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
+
 ### Hardware
 
 | Foto | Nome | Perfil GitHub |
 | :---: | :--- | :--- |
-| ![Sarah Brito](https://github.com/sarahteles.png?size=40) | Sarah Brito | [sarahteles](https://github.com/sarahteles) |
-| ![Lucas Santana](https://github.com/Luc4sF3rreira.png?size=40) | Lucas Santana | [Luc4sF3rreira](https://github.com/Luc4sF3rreira) |
-| ![Luis Guilherme](https://ui-avatars.com/api/?name=Luis+Guilherme&size=40) | Luis Guilherme | Pendente |
-| ![Vitor Eduardo](https://ui-avatars.com/api/?name=Vitor+Eduardo&size=40) | Vitor Eduardo | Pendente |
-| ![Luiz Octávio](https://ui-avatars.com/api/?name=Luiz+Octávio&size=40) | Luiz Octávio | Pendente |
+| <img src="https://github.com/sarahteles.png?size=80" width="80" height="80" alt="Sarah Brito"> | Sarah Brito | [sarahteles](https://github.com/sarahteles) |
+| <img src="https://github.com/Luc4sF3rreira.png?size=80" width="80" height="80" alt="Lucas Santana"> | Lucas Santana | [Luc4sF3rreira](https://github.com/Luc4sF3rreira) |
+| <img src="https://ui-avatars.com/api/?name=Luis+Guilherme&size=80" width="80" height="80" alt="Luis Guilherme"> | Luis Guilherme | Pendente |
+| <img src="https://ui-avatars.com/api/?name=Vitor+Eduardo&size=80" width="80" height="80" alt="Vitor Eduardo"> | Vitor Eduardo | Pendente |
+| <img src="https://ui-avatars.com/api/?name=Luiz+Octavio&size=80" width="80" height="80" alt="Luiz Octávio"> | Luiz Octávio | Pendente |
+
+</td>
+<td valign="top" width="50%">
 
 ### Software
 
 | Foto | Nome | Perfil GitHub |
 | :---: | :--- | :--- |
-| ![Thomas Augusto](https://github.com/thomas4ugust0.png?size=40) | Thomas Augusto | [thomas4ugust0](https://github.com/thomas4ugust0) |
-| ![Vitor Oliveira](https://github.com/vitoraraujoooo.png?size=40) | Vitor Oliveira | [vitoraraujoooo](https://github.com/vitoraraujoooo) |
-| ![Renan Reis](https://github.com/renanpr7.png?size=40) | Renan Reis | [renanpr7](https://github.com/renanpr7) |
-| ![Lana Beatriz](https://github.com/bea-debug.png?size=40) | Lana Beatriz | [bea-debug](https://github.com/bea-debug) |
-| ![Lucas Nunes](https://ui-avatars.com/api/?name=Lucas+Nunes&size=40) | Lucas Nunes | Pendente |
+| <img src="https://github.com/thomas4ugust0.png?size=80" width="80" height="80" alt="Thomas Augusto"> | Thomas Augusto | [thomas4ugust0](https://github.com/thomas4ugust0) |
+| <img src="https://github.com/vitoraraujoooo.png?size=80" width="80" height="80" alt="Vitor Oliveira"> | Vitor Oliveira | [vitoraraujoooo](https://github.com/vitoraraujoooo) |
+| <img src="https://github.com/renanpr7.png?size=80" width="80" height="80" alt="Renan Reis"> | Renan Reis | [renanpr7](https://github.com/renanpr7) |
+| <img src="https://github.com/bea-debug.png?size=80" width="80" height="80" alt="Lana Beatriz"> | Lana Beatriz | [bea-debug](https://github.com/bea-debug) |
+| <img src="https://ui-avatars.com/api/?name=Lucas+Nunes&size=80" width="80" height="80" alt="Lucas Nunes"> | Lucas Nunes | Pendente |
+
+</td>
+</tr>
+</table>
