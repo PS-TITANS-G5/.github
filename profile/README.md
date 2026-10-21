@@ -75,33 +75,34 @@ O documento deve ser entregue até 4 de dezembro de 2026 contendo:
 
 ## Integrantes
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top">
+<td width="48%">
 
 ### Hardware
 
-| Foto | Nome | Perfil GitHub | Função
+| Foto | Nome | Perfil GitHub | Função |
 | :---: | :--- | :--- | :--- |
-| <img src="https://ui-avatars.com/api/?name=Luis+Guilherme&size=80" width="80" height="80" alt="Luis Guilherme"> | Luis Guilherme | Pendente | **Gerente de Hardware** <br> Eletrônica
-| <img src="https://github.com/Luc4sF3rreira.png?size=80" width="80" height="80" alt="Lucas Santana"> | Lucas Santana | [Luc4sF3rreira](https://github.com/Luc4sF3rreira) | Eletrônica
-| <img src="https://github.com/sarahteles.png?size=80" width="80" height="80" alt="Sarah Brito"> | Sarah Brito | [sarahteles](https://github.com/sarahteles) | Mecânica
-| <img src="https://github.com/luizao2945.png?size=80" width="80" height="80" alt="Luiz Octávio"> | Luiz Octávio | [luizao2945 ](https://github.com/luizao2945) | Mecânica
-| <img src="https://github.com/vitoraraujoooo.png?size=80" width="80" height="80" alt="Vitor Oliveira"> | Vitor Eduardo | [vitoraraujoooo](https://github.com/vitoraraujoooo) | Integração e <br> Documentação
+| <img src="https://ui-avatars.com/api/?name=Luis+Guilherme&size=90" width="90" height="90" alt="Luis Guilherme"> | Luis Guilherme | Pendente | **Gerente de Hardware** <br> Eletrônica |
+| <img src="https://github.com/Luc4sF3rreira.png?size=90" width="90" height="90" alt="Lucas Santana"> | Lucas Santana | [Luc4sF3rreira](https://github.com/Luc4sF3rreira) | Eletrônica |
+| <img src="https://github.com/sarahteles.png?size=90" width="90" height="90" alt="Sarah Brito"> | Sarah Brito | [sarahteles](https://github.com/sarahteles) | Mecânica |
+| <img src="https://github.com/luizao2945.png?size=90" width="90" height="90" alt="Luiz Octávio"> | Luiz Octávio | [luizao2945 ](https://github.com/luizao2945) | Mecânica |
 
 </td>
-<td valign="top" width="50%">
+<td width="0%"></td>
+<td width="48%">
 
 ### Software
 
-| Foto | Nome | Perfil GitHub | Função
+| Foto | Nome | Perfil GitHub | Função |
 | :---: | :--- | :--- | :--- |
-| <img src="https://github.com/thomas4ugust0.png?size=80" width="80" height="80" alt="Thomas Augusto"> | Thomas Augusto | [thomas4ugust0](https://github.com/thomas4ugust0) | **Gerente de Software** <br> Interface
-| <img src="https://github.com/Atila05.png?size=80" width="80" height="80" alt="Átila Sobral"> | Átila Sobral | [Atila05](https://github.com/Atila05) | Firmware
-| <img src="https://github.com/renanpr7.png?size=80" width="80" height="80" alt="Renan Reis"> | Renan Reis | [renanpr7](https://github.com/renanpr7) | Firmware
-| <img src="https://ui-avatars.com/api/?name=Lucas+Nunes&size=80" width="80" height="80" alt="Lucas Nunes"> | Lucas Nunes | Pendente | Rede
-| <img src="https://github.com/bea-debug.png?size=80" width="80" height="80" alt="Lana Beatriz"> | Lana Beatriz | [bea-debug](https://github.com/bea-debug) | Integração e <br> Documentação
+| <img src="https://github.com/thomas4ugust0.png?size=90" width="90" height="90" alt="Thomas Augusto"> | Thomas Augusto | [thomas4ugust0](https://github.com/thomas4ugust0) | **Gerente de Software** <br> Interface |
+| <img src="https://github.com/Atila05.png?size=90" width="90" height="90" alt="Átila Sobral"> | Átila Sobral | [Atila05](https://github.com/Atila05) | Firmware |
+| <img src="https://github.com/renanpr7.png?size=90" width="90" height="90" alt="Renan Reis"> | Renan Reis | [renanpr7](https://github.com/renanpr7) | Firmware |
+| <img src="https://ui-avatars.com/api/?name=Lucas+Nunes&size=90" width="90" height="90" alt="Lucas Nunes"> | Lucas Nunes | Pendente | Rede |
+| <img src="https://github.com/bea-debug.png?size=90" width="90" height="90" alt="Lana Beatriz"> | Lana Beatriz | [bea-debug](https://github.com/bea-debug) | Integração e <br> Documentação |
 
 </td>
 </tr>
 </table>
+
