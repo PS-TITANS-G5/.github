@@ -97,7 +97,7 @@ O documento deve ser entregue até 4 de dezembro de 2026 contendo:
 | Foto | Nome | Perfil GitHub | Função
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/thomas4ugust0.png?size=80" width="80" height="80" alt="Thomas Augusto"> | Thomas Augusto | [thomas4ugust0](https://github.com/thomas4ugust0) | **Gerente de Software** <br> Interface
-| <img src="https://github.com/Atila05.png?size=80" width="80" height="80" alt="Átila Sobral"> | Átila Sobral | [Atila05](https://github.com/bea-debug) | Firmware
+| <img src="https://github.com/Atila05.png?size=80" width="80" height="80" alt="Átila Sobral"> | Átila Sobral | [Atila05](https://github.com/Atila05) | Firmware
 | <img src="https://github.com/renanpr7.png?size=80" width="80" height="80" alt="Renan Reis"> | Renan Reis | [renanpr7](https://github.com/renanpr7) | Firmware
 | <img src="https://ui-avatars.com/api/?name=Lucas+Nunes&size=80" width="80" height="80" alt="Lucas Nunes"> | Lucas Nunes | Pendente | Rede
 | <img src="https://github.com/bea-debug.png?size=80" width="80" height="80" alt="Lana Beatriz"> | Lana Beatriz | [bea-debug](https://github.com/bea-debug) | Integração e <br> Documentação
