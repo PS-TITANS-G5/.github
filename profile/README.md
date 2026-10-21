@@ -83,7 +83,7 @@ O documento deve ser entregue até 4 de dezembro de 2026 contendo:
 
 | Foto | Nome | Perfil GitHub | Função |
 | :---: | :--- | :--- | :--- |
-| <img src="https://ui-avatars.com/api/?name=Luis+Guilherme&size=90" width="90" height="90" alt="Luis Guilherme"> | Luis Guilherme | Pendente | **Gerente de Hardware** <br> Eletrônica |
+| <img src="https://github.com/penguinanones.png?size=90" width="90" height="90" alt="Luis Guilherme"> | Luis Guilherme | [penguinanones](https://github.com/penguinanones) | **Gerente de Hardware** <br> Eletrônica |
 | <img src="https://github.com/Luc4sF3rreira.png?size=90" width="90" height="90" alt="Lucas Santana"> | Lucas Santana | [Luc4sF3rreira](https://github.com/Luc4sF3rreira) | Eletrônica |
 | <img src="https://github.com/sarahteles.png?size=90" width="90" height="90" alt="Sarah Brito"> | Sarah Brito | [sarahteles](https://github.com/sarahteles) | Mecânica |
 | <img src="https://github.com/luizao2945.png?size=90" width="90" height="90" alt="Luiz Octávio"> | Luiz Octávio | [luizao2945 ](https://github.com/luizao2945) | Mecânica |
