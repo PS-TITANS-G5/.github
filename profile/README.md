@@ -76,8 +76,8 @@ O documento deve ser entregue até 4 de dezembro de 2026 contendo:
 ## Integrantes
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr valign="top">
-<td width="48%">
+  <tr valign="top">
+    <td width="50%">
 
 ### Hardware
 
@@ -85,6 +85,9 @@ O documento deve ser entregue até 4 de dezembro de 2026 contendo:
 | :---: | :--- | :--- | :--- |
 | <img src="https://github.com/Luc4sF3rreira.png?size=90" width="90" height="90" alt="Lucas Santana"> | Lucas Santana | [Luc4sF3rreira](https://github.com/Luc4sF3rreira) | **Gerente de Hardware** <br> Eletrônica |
 | <img src="https://github.com/sarahteles.png?size=90" width="90" height="90" alt="Sarah Brito"> | Sarah Brito | [sarahteles](https://github.com/sarahteles) | Mecânica |
+
+  </td>
+    <td width="50%">
 
 ### Software
 
@@ -95,6 +98,6 @@ O documento deve ser entregue até 4 de dezembro de 2026 contendo:
 | <img src="https://github.com/lucastnunes06.png?size=90" width="90" height="90" alt="Lucas Nunes"> | Lucas Nunes | [lucastnunes06](https://github.com/lucastnunes06) | Rede |
 | <img src="https://github.com/bea-debug.png?size=90" width="90" height="90" alt="Lana Beatriz"> | Lana Beatriz | [bea-debug](https://github.com/bea-debug) | Integração e <br> Documentação |
 
-</td></tr>
+  </td>
+  </tr>
 </table>
-
